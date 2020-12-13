@@ -1,4 +1,4 @@
-# Coursera-Assignments
+# HTML, CSS, Javascript for Web Developers
 This repository is for Coursera assignments<br><br>
 Coursera assignment module 2<br>
 https://ghassanaz.github.io/Coursera-Assignments/module2-solution/ <br><br>
